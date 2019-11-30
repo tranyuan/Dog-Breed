@@ -4,6 +4,7 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+[github](https://github.com/tranyuan/dog-breed)
 
 ## Project Overview
 
