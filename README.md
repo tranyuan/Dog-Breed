@@ -15,12 +15,24 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 [Here](https://medium.com/@andrewchen022012/dog-identification-app-c0c568978024)
 
-1. project overview
-2. problem statement
-3. metrics used to evaluate the model and its justification
-4. good documentation of the preprocessing steps
-5. implementation
-6. refinement
-7. results and its detailed discussions
-8. An end to end conclusion
-9. And future improvements section.
+### Project Definition
+* Project Overview
+* Problem Statement
+* Metrics
+
+### Analysis
+* Data Exploration
+* Data Visualization
+
+### Methodology
+* Data Preprocessing
+* Implementation
+* Refinement
+
+### Results
+* Model Evaluation and Validation
+* Justification
+
+### Conclusion
+* Reflection
+* Improvement
